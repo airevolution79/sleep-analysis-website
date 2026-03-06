@@ -1,0 +1,13 @@
+# Dependencies - never commit these, they're huge and can be reinstalled with "npm install"
+node_modules/
+
+# Vite build output
+dist/
+
+# Local environment files
+.env
+.env.local
+
+# OS junk
+.DS_Store
+Thumbs.db
