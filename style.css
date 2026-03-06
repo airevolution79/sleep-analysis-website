@@ -5,7 +5,7 @@ html {
 body {
   margin: 0;
   font-family: 'Inter', Arial, Helvetica, sans-serif;
-  background: #C7D7EA;
+  background: #1f1f22;
   color: #fff;
 }
 
@@ -96,7 +96,7 @@ body {
 }
 
 .content {
-  padding: 26px 0;
+  padding: 26px 22px;
   box-sizing: border-box;
 }
 
