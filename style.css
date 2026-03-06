@@ -96,14 +96,14 @@ body {
 }
 
 .content {
-  padding: 26px 22px;
+  padding: 26px 0;
   box-sizing: border-box;
 }
 
 
 .panel {
   background: #1f1f22;
-  border-radius: 18px;
+  border-radius: 0;
   padding-top: 28px;
   padding-right: 28px;
   padding-bottom: 28px;
